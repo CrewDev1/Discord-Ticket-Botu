@@ -1,0 +1,15 @@
+{
+  "name": "redxyticket",
+  "version": "1.0.0",
+  "description": "V14-Redxy-Ticket",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "croxydb": "^0.0.24",
+    "discord.js": "^13.17.1"
+  }
+}
